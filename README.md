@@ -6,7 +6,7 @@
 [![HassanUsman Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
 >Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 
-[中文支持](https://github.com/HassanUsman/Java-to-Kotlin/blob/master/README-ZH.md)
+[中文支持](https://github.com/HassanUsman/Java-to-Kotlin/blob/master/README-Hp.md)
 ---
 
 > Java
