@@ -3,11 +3,11 @@
 </p>
 
 # From Java To Kotlin
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-> From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+[![HassanUsman](https://img.shields.io/badge/mindorks-opensource-blue.svg)](http://learnyandroid.blogspot.com/)
+[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
+>Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 
-[中文支持](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
+[中文支持](https://github.com/HassanUsman/Java-to-Kotlin/blob/master/README-ZH.md)
 ---
 
 > Java
@@ -313,18 +313,18 @@ map.put(3, "Mindorks");
 // Java 9
 final List<Integer> listOfNumber = List.of(1, 2, 3, 4);
 
-final Map<Integer, String> keyValue = Map.of(1, "Amit",
+final Map<Integer, String> keyValue = Map.of(1, "Hassan",
                                              2, "Ali",
-                                             3, "Mindorks");
+                                             3, "Hp");
 ```
 
 > Kotlin
 
 ```kotlin
 val listOfNumber = listOf(1, 2, 3, 4)
-val keyValue = mapOf(1 to "Amit",
+val keyValue = mapOf(1 to "Hassan",
                      2 to "Ali",
-                     3 to "Mindorks")
+                     3 to "Hp")
 ```
 
 ---
@@ -687,12 +687,12 @@ internal lateinit var person: Person
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
+[Check out Hassan's awesome blog here](http://learnyandroid.blogspot.com/)
 
 
 ### License
 ```
-   Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2017 Hassan Usman
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
