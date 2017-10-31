@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="FromJavaToKotlin" src="https://raw.githubusercontent.com/MindorksOpenSource/from-java-to-kotlin/master/assets/from_java_to_kotlin.png">
+<img alt="JavaToKotlin" src="https://github.com/HassanUsman/Java-to-Kotlin/blob/master/assets/from_java_to_kotlin.png">
 </p>
 
 # From Java To Kotlin
