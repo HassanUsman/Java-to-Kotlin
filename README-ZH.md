@@ -1,7 +1,10 @@
-![](http://upload-images.jianshu.io/upload_images/1110736-25da08f052608195.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<p align="center">
+<img alt="JavaToKotlin" src="https://github.com/HassanUsman/Java-to-Kotlin/blob/master/assets/from_java_to_kotlin.png">
+</p>
 
-# From Java To Kotlin
+# Java To Kotlin
 [![HassanUsman Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
+
 ## 打印日志
  - Java
 
