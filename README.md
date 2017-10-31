@@ -3,8 +3,7 @@
 </p>
 
 # From Java To Kotlin
-[![HassanUsman](https://img.shields.io/badge/mindorks-opensource-blue.svg)](http://learnyandroid.blogspot.com/)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
+[![HassanUsman Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
 >Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 
 [中文支持](https://github.com/HassanUsman/Java-to-Kotlin/blob/master/README-ZH.md)
