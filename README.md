@@ -12,15 +12,15 @@
 > Java
 
 ```java
-System.out.print("Amit Shekhar");
-System.out.println("Amit Shekhar");
+System.out.print("Hassan Usman");
+System.out.println("Hassan Usman");
 ```
 
 > Kotlin
 
 ```kotlin
-print("Amit Shekhar")
-println("Amit Shekhar")
+print("Hassan Usman")
+println("Hassan Usman")
 ```
 
 ---
@@ -28,15 +28,15 @@ println("Amit Shekhar")
 > Java
 
 ```java
-String name = "Amit Shekhar";
-final String name = "Amit Shekhar";
+String name = "Hassan Usman";
+final String name = "Hassan Usman";
 ```
 
 > Kotlin
 
 ```kotlin
-var name = "Amit Shekhar"
-val name = "Amit Shekhar"
+var name = "Hassan Usman"
+val name = "Hassan Usman"
 ```
 
 ---
@@ -80,16 +80,16 @@ val length = text?.length
 > Java
 
 ```java
-String firstName = "Amit";
-String lastName = "Shekhar";
+String firstName = "Hassan";
+String lastName = "Usman";
 String message = "My name is: " + firstName + " " + lastName;
 ```
 
 > Kotlin
 
 ```kotlin
-val firstName = "Amit"
-val lastName = "Shekhar"
+val firstName = "Hassan"
+val lastName = "Usman"
 val message = "My name is: $firstName $lastName"
 ```
 
@@ -674,14 +674,6 @@ internal lateinit var person: Person
 
 
 ---
-
-### Important things to know in Kotlin
-* [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)
-* [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with)
-* [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class)
-* [Learn Kotlin - Destructuring Declarations](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)
-* [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions)
-* [Learn Kotlin - Sealed Classes](https://mindorks.com/blog/learn-kotlin-sealed-classes)
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
