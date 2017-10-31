@@ -1,22 +1,20 @@
 ![](http://upload-images.jianshu.io/upload_images/1110736-25da08f052608195.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # From Java To Kotlin
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-
+[![HassanUsman Community](https://img.shields.io/badge/join-community-blue.svg)](http://learnyandroid.blogspot.com/)
 ## 打印日志
  - Java
 
 ```java
-System.out.print("Amit Shekhar");
-System.out.println("Amit Shekhar");
+System.out.print("Hassan Usman");
+System.out.println("Hassan Usman");
 ```
 
 -  Kotlin
 
 ```kotlin
-print("Amit Shekhar")
-println("Amit Shekhar")
+print("Hassan Usman")
+println("Hassan Usman")
 ```
 
 ---
@@ -25,15 +23,15 @@ println("Amit Shekhar")
 - Java
 
 ```java
-String name = "Amit Shekhar";
-final String name = "Amit Shekhar";
+String name = "Hassan Usman";
+final String name = "Hassan Usman";
 ```
 
 - Kotlin
 
 ```kotlin
-var name = "Amit Shekhar"
-val name = "Amit Shekhar"
+var name = "Hassan Usman"
+val name = "Hassan Usman"
 ```
 
 ---
@@ -78,16 +76,16 @@ val length = text?.length
 -  Java
 
 ```java
-String firstName = "Amit";
-String lastName = "Shekhar";
+String firstName = "Hassan";
+String lastName = "Usman";
 String message = "My name is: " + firstName + " " + lastName;
 ```
 
 -  Kotlin
 
 ```kotlin
-val firstName = "Amit"
-val lastName = "Shekhar"
+String firstName = "Hassan";
+String lastName = "Usman";
 val message = "My name is: $firstName $lastName"
 ```
 
@@ -297,18 +295,18 @@ map.put(3, "Mindorks");
 // Java 9
 final List<Integer> listOfNumber = List.of(1, 2, 3, 4);
 
-final Map<Integer, String> keyValue = Map.of(1, "Amit",
+final Map<Integer, String> keyValue = Map.of(1, "Hassan",
                                              2, "Ali",
-                                             3, "Mindorks");
+                                             3, "Hp");
 ```
 
 - Kotlin
 
 ```kotlin
 val listOfNumber = listOf(1, 2, 3, 4)
-val keyValue = mapOf(1 to "Amit",
-                     2 to "Ali",
-                     3 to "Mindorks")
+val keyValue = mapOf(1 to "Hassan",
+                     2 to "Ali",
+                     3 to "Hp")
 ```
 
 ---
@@ -562,23 +560,15 @@ var result = 3.triple()
 
 ---
 
-### 你需要知道一些比较重要的事
-* [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)
-* [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with)
-* [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class)
-* [Learn Kotlin - Destructuring Declarations](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)
-* [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions)
-* [Learn Kotlin - Sealed Classes](https://mindorks.com/blog/learn-kotlin-sealed-classes)
-
 ### 如果你觉得这个项目对你有帮助 :heart:
 * 你可以通过点击 :star:表示支持  :v:
 
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
+[Check out Hassan's awesome blog here](http://learnyandroid.blogspot.com/)
 
 
 ### License
 ```
-   Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2017 Hassan Usman PRIVATE LIMITED
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
